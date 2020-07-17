@@ -1,0 +1,2 @@
+# HelloWorldNetCore
+.net core
